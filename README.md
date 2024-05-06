@@ -19,7 +19,7 @@ Functional for: Safari Browser
 
 Currently a work in progress...
 
-Current Functional issue list:
+Current Functional Issues List:
 
 [TO DO] - wildcard for allowing connections to video service
 
