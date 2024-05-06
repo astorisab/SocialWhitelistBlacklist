@@ -29,7 +29,7 @@ Current Functional Issues List:
 To allow video streaming the following conditions should be followed:
 
 1. An ask policy should be used for googlevideo.com
-2. For each video streamed, the googlevideo.com domain should have one endpoint open *ad might make a bit different
+2. For each video streamed, the googlevideo.com domain should have one endpoint open * I do not condone getting around ads as this is how the service makes money. Ad videos have a video link as well. Once the ad is done the link can be closed.
 3. When the video is finished being watched the video endpoint should be blocked *could lead to a lag in video service if left open. Not tested fully.
 4. Upon clicking or hover over a new video of interest a corrisponding video should have a video stream link under an ask policy
 5. Allow the link for the video of interest and repeat the steps above
