@@ -62,8 +62,12 @@ Blocking connections related to linkedin.cn domain
 platform-akam.linkedin.cn
 platform-alib.linkedin.cn
 
+Blocking connections related to protechts.net domain
 
-
+li.protechts.net
+collector-pxdojv695v.protechts.net
+stk.protechts.net
+client.protechts.net
 
 
 
