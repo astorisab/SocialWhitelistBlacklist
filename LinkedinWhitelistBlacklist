@@ -41,8 +41,12 @@ rum22.perf.linkedin.com
 lva1-lx.perf.linkedin.com
 any-na-tg.rtb.linkedin.com
 
+///BLOCKING ALL CONNECTIONS FROM THE FOLLOWING DOMAINS///
 
+Blocking connections related to linkedin.cn domain
 
+platform-akam.linkedin.cn
+platform-alib.linkedin.cn
 
 
 
