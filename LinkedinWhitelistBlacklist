@@ -5,8 +5,9 @@ Allowing connections related to linkedin.com domain
 
 www.linkedin.com
 
+Allowing connections related to licdn.com domain
 
-
+dms.licdn.com
 
 
 ///BLOCKED CONNECTIONS///
@@ -40,6 +41,19 @@ exp1.www.linkedin.com
 rum22.perf.linkedin.com
 lva1-lx.perf.linkedin.com
 any-na-tg.rtb.linkedin.com
+
+Blocking connections related to licdn.com domain
+
+static.licdn.com      *Please read the README file for proper use of functional blocking when logging in from link provided in the README 
+media.licdn.com
+snap.licdn.com
+dms-akam.licdn.com
+media-akam.licdn.com
+static-od.licdn.com
+media-ecst.licdn.com
+static-akam.licdn.com
+static-azur.licdn.com
+media-exp3.licdn.com
 
 ///BLOCKING ALL CONNECTIONS FROM THE FOLLOWING DOMAINS///
 
