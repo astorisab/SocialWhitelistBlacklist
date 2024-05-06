@@ -25,6 +25,9 @@ Current Functional Issues List:
 
 [TO DO] - limit on allowing connections to video service
 
+[TO DO] - fix for live streaming. Does not currently work with the protocol below
+
+
 To allow video streaming the following conditions should be followed:
 
 1. An ask policy should be used for googlevideo.com
