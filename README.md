@@ -22,6 +22,7 @@ Currently a work in progress...
 Current Functional issue list:
 
 [TO DO] - wildcard for allowing connections to video service
+
 [TO DO] - limit on allowing connections to video service
 
 The following link was used to access linkedin: https://www.youtube.com
