@@ -9,7 +9,7 @@ Allows Linkedin functionality to work without all the other added connections. *
 
 Allow static.licdn.com when logging in and add to blocklist once logged in and the profile page as populated. Reload page to check functionality.
 
-The following link was used to access linkedin: https://www.linkedin.com
+The following link was used to access youtube: https://www.linkedin.com
 
 * Blocking static.licdn.com is viable and recommended once logged in. Recommended because I'm trying to use the site with as minimal connections as possible. You can choose to omit this in your functional blocklist if you want.
 
