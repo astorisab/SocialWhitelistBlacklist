@@ -6,7 +6,14 @@ If anyone is interested in a whitelist or a blacklist for firewall settings when
 
 Allows Linkedin functionality to work without all the other added connections. *Lightly tested please write if a functionality is not working for you
 
-The following link was used to access image resize: 
+
+
+
+Allow static.licdn.com when logging in and add to blocklist once logged in
+
+The following link was used to access linkedin: https://www.linkedin.com
+
+* Blocking static.licdn.com is viable and recommended once logged in. Recommended because I'm trying to use the site with as minimal connections as needed.
 
 Functional for: Safari Browser
 
