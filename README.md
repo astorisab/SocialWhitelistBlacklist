@@ -24,6 +24,7 @@ Current Functional Issues List:
 [TO DO] - wildcard for allowing connections to video service
 
 [TO DO] - limit on allowing connections to video service
+
 To allow video streaming the following conditions should be followed:
 
 1. An ask policy should be used for googlevideo.com
