@@ -9,7 +9,7 @@ Allows Linkedin functionality to work without all the other added connections. *
 
 
 
-Allow static.licdn.com when logging in and add to blocklist once logged in
+Allow static.licdn.com when logging in and add to blocklist once logged in and the profile page as populated. Reload page to check functionality.
 
 The following link was used to access linkedin: https://www.linkedin.com
 
