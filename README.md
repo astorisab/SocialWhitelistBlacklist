@@ -7,8 +7,6 @@ If anyone is interested in a whitelist or a blacklist for firewall settings when
 Allows Linkedin functionality to work without all the other added connections. *Lightly tested please write if a functionality is not working for you
 
 
-
-
 Allow static.licdn.com when logging in and add to blocklist once logged in and the profile page as populated. Reload page to check functionality.
 
 The following link was used to access linkedin: https://www.linkedin.com
@@ -22,6 +20,7 @@ Functional for: Safari Browser
 Currently a work in progress...
 
 Current Functional issue list:
+
 [TO DO] - wildcard for allowing connections to video service
 [TO DO] - limit on allowing connections to video service
 
