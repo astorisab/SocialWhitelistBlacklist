@@ -17,4 +17,24 @@ The following link was used to access linkedin: https://www.linkedin.com
 
 Functional for: Safari Browser
 
+#Youtube (Non-Logged In User)
+
+Currently a work in progress...
+
+Current Functional issue list:
+[TO DO] - wildcard for allowing connections to video service
+[TO DO] - limit on allowing connections to video service
+
+The following link was used to access linkedin: https://www.youtube.com
+
+Functional for: Safari Browser
+
+#Youtube (Logged In User)
+
+## Yet to be started
+
+
 If looking for some blocklists related to blocking app functionality, this repo created by another github contributor may be of interest: https://github.com/d43m0nhLInt3r/socialblocklists
+
+
+
