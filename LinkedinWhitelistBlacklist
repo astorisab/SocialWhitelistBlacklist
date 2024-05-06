@@ -74,5 +74,15 @@ Blocking connections related to cedexis.com domain
 radar.cedexis.com
 rpt.cedexis.com
 
+Blocking connections related to 33across.com domain
+
+lex.33across.com
+lexicon.33across.com
+cdn-ima.33across.com
+ssc.33across.com
+ssc-cms.33across.com
+
+
+
 
 
