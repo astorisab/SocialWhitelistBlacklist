@@ -34,7 +34,6 @@ To allow video streaming the following conditions should be followed:
 4. Upon clicking or hover over a new video of interest a corrisponding video should have a video stream link under an ask policy
 5. Allow the link for the video of interest and repeat the steps above
 
-For Live Streaming - All of the steps above should work but there should be two video streaming links that need to be open in order to watch the live video.
 
 
 
