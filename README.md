@@ -17,7 +17,7 @@ The following link was used to access linkedin: https://www.linkedin.com
 
 Functional for: Safari Browser
 
-#Youtube (Non-Logged In User)
+# Youtube (Non-Logged In User)
 
 Currently a work in progress...
 
@@ -29,7 +29,7 @@ The following link was used to access linkedin: https://www.youtube.com
 
 Functional for: Safari Browser
 
-#Youtube (Logged In User)
+# Youtube (Logged In User)
 
 ## Yet to be started
 
