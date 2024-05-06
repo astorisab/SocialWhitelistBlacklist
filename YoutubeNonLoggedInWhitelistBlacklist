@@ -82,7 +82,7 @@ i9.ytimg.com
 
 Blocking connections related to gstatic.com domain
 
-*some of these could be related to other services
+*some of these could be related to other services. I would recommend blocking them anyways.
 
 ssl.gstatic.com
 www.gstatic.com
