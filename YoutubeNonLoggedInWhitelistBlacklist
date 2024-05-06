@@ -6,6 +6,9 @@ Allowing connections related to youtube.com domain
 www.youtube.com
 suggestqueries-clients6.youtube.com  * This one can be blocked if you choose. Search suggestions for the search bok.
 
+Allowing connections related to ytimg.com domain
+
+i.ytimg.com
 
 ///BLOCKED CONNECTIONS///
 
@@ -67,9 +70,13 @@ rr1---sn-vgqskn6z.c.youtube.com **found these type not connected to video servic
 m.youtube.com 
 
 
+Blocking connections related to ytimg.com domain
 
-
-
+i1.ytimg.com
+i2.ytimg.com
+i3.ytimg.com
+i4.ytimg.com
+i9.ytimg.com
 
 
 
