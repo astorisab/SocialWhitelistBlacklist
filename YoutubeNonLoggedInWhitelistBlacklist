@@ -78,5 +78,40 @@ i3.ytimg.com
 i4.ytimg.com
 i9.ytimg.com
 
+///BLOCKING ALL CONNECTIONS FROM THE FOLLOWING DOMAINS///
+
+Blocking connections related to gstatic.com domain
+
+*some of these could be related to other services
+
+ssl.gstatic.com
+www.gstatic.com
+fonts.gstatic.com
+encrypted-tbn0.gstatic.com
+encrypted-tbn1.gstatic.com
+encrypted-tbn2.gstatic.com
+encrypted-tbn3.gstatic.com
+encrypted-vtbn0.gstatic.com
+maps.gstatic.com
+t0.gstatic.com
+t2.gstatic.com
+csi.gstatic.com
+g0.gstatic.com
+p4-bmgvj3qekcr4q-6x2m3kqkqgiugp2v-if-v6exp3-v4.metric.gstatic.com
+p4-bhwu7w6oo2z4o-vtjank4nergqrwsf-if-v6exp3-v4.metric.gstatic.com
+p4-bmgvj3qekcr4q-6x2m3kqkqgiugp2v-684873-i1-v6exp3.v4.metric.gstatic.com
+p4-bmgvj3qekcr4q-6x2m3kqkqgiugp2v-684873-i2-v6exp3.ds.metric.gstatic.com
+p4-bhwu7w6oo2z4o-vtjank4nergqrwsf-576480-i2-v6exp3.v4.metric.gstatic.com
+p4-bhwu7w6oo2z4o-vtjank4nergqrwsf-576480-i1-v6exp3.ds.metric.gstatic.com
+gstatic.com
+
+
+
+
+
+
+
+
+
 
 
