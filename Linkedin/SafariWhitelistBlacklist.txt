@@ -1,0 +1,88 @@
+SAFARI BROWSER SETTINGS
+
+
+Allowing connections related to linkedin.com domain
+
+www.linkedin.com
+
+Allowing connections related to licdn.com domain
+
+dms.licdn.com
+
+
+///BLOCKED CONNECTIONS///
+
+Blocking connections related to linkedin.com domain
+
+platform.linkedin.com
+px.ads.linkedin.com
+merchantpool1.linkedin.com
+ponf.linkedin.com
+cf.perf.linkedin.com
+platform-ecst.linkedin.com
+platform-azur.linkedin.com
+px4.ads.linkedin.com
+rtb-us-east.linkedin.com
+rtb-us-west.linkedin.com
+exp2.www.linkedin.com
+pop-lva1-tg.rtb.linkedin.com
+pop-lor1-lx.www.linkedin.com
+platform-akam.linkedin.com
+rum14.perf.linkedin.com
+afd.perf.linkedin.com
+rum20.perf.linkedin.com
+pop-ltx1-lx.www.linkedin.com
+rum15.perf.linkedin.com
+any-na-tg.www.linkedin.com
+pop-lva1-lx.www.linkedin.
+rum19.perf.linkedin.com
+rum3.perf.linkedin.com
+exp1.www.linkedin.com
+rum22.perf.linkedin.com
+lva1-lx.perf.linkedin.com
+any-na-tg.rtb.linkedin.com
+
+Blocking connections related to licdn.com domain
+
+static.licdn.com      *Please read the README file for proper use of functional blocking when logging in from link provided in the README 
+media.licdn.com
+snap.licdn.com
+dms-akam.licdn.com
+media-akam.licdn.com
+static-od.licdn.com
+media-ecst.licdn.com
+static-akam.licdn.com
+static-azur.licdn.com
+media-exp3.licdn.com
+
+///BLOCKING ALL CONNECTIONS FROM THE FOLLOWING DOMAINS///
+
+Blocking connections related to linkedin.cn domain
+
+platform-akam.linkedin.cn
+platform-alib.linkedin.cn
+
+Blocking connections related to protechts.net domain
+
+li.protechts.net
+collector-pxdojv695v.protechts.net
+stk.protechts.net
+client.protechts.net
+
+Blocking connections related to cedexis.com domain
+
+radar.cedexis.com
+rpt.cedexis.com
+
+Blocking connections related to 33across.com domain
+
+lex.33across.com
+lexicon.33across.com
+cdn-ima.33across.com
+ssc.33across.com
+ssc-cms.33across.com
+
+
+
+
+
